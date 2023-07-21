@@ -29,17 +29,21 @@ interests:
   - Artificial Intelligence
   - Computational Finance
   - Computational Linguistics
+  - Operations Research and Management Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Ph. D. in Systems Engineering
       institution: Stanford University
       year: Expected 2025
-    - course: MEng in Artificial Intelligence
+    - course: M.A. in Statistics
       institution: Columbia University
       year: 2019
-    - course: BSc in Artificial Intelligence
+    - course: B.A. in Economics 
+      institution: Whitman College
+      year: 2017
+    - course: B.A. in Mathematics
       institution: Whitman College
       year: 2017
 
@@ -80,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-Nicholas W. is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nicholas W. is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
