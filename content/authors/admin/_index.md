@@ -55,12 +55,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/i/flow/login?redirect_after_login=%2F
-    label: Follow me on Twitter
-    display:
-      header: false
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/i/flow/login?redirect_after_login=%2F
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack, default is `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     link: https://scholar.google.com/
