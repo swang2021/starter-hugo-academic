@@ -35,7 +35,7 @@ interests:
 education:
   courses:
     - course: Ph. D. in Systems Engineering
-      institution: Stanford University
+      institution: George Washington University
       year: Expected 2025
     - course: M.A. in Statistics
       institution: Columbia University
@@ -57,19 +57,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/i/flow/login?redirect_after_login=%2F
     label: Follow me on Twitter
     display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+      header: false
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack, default is `graduation-cap` icon from `fas` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/swang2021
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sw-nicholas/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -84,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-Nicholas W. is a professor of artificial intelligence at the Stanford AI Lab. 
+Nicholas W. is a quantitative model developer/data scientist at UBS.
 {style="text-align: justify;"}
