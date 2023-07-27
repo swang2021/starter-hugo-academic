@@ -29,12 +29,11 @@ interests:
   - Artificial Intelligence
   - Computational Finance
   - Computational Linguistics
-  - Operations Research and Management Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph. D. in Systems Engineering
+    - course: Ph. D. in Operations Research and Management Science
       institution: George Washington University
       year: Expected 2025
     - course: M.A. in Statistics
