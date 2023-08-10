@@ -85,5 +85,5 @@ email: ''
 highlight_name: true
 ---
 
-Nicholas W. is a quantitative model developer/data scientist at UBS.
+Nicholas W. is a quantitative model developer/data scientist at a bulge bracket bank.
 {style="text-align: justify;"}
